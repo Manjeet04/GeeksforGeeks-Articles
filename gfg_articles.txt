@@ -1,0 +1,110 @@
+Links to all my published articles ( in order) are :-
+
+1. www.geeksforgeeks.org/c-magicians-stl-algorithms/
+2. http://www.geeksforgeeks.org/clearing-the-input-buffer-in-cc/
+3. http://www.geeksforgeeks.org/c-string-class-applications-set-2/
+4. http://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-1-sort-by-first-and-second/
+5. http://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-2-sort-in-descending-order-by-first-and-second/
+6. http://www.geeksforgeeks.org/sorting-2d-vector-in-c-set-1-by-row-and-column/
+7. http://www.geeksforgeeks.org/sorting-2d-vector-in-c-set-2-in-descending-order-by-row-and-column/
+8. http://www.geeksforgeeks.org/nan-in-cpp-what-is-it-and-how-to-check-for-it/
+9. http://www.geeksforgeeks.org/sorting-2d-vector-c-set-3-number-columns/
+10. http://www.geeksforgeeks.org/what-is-array-decay-in-c-how-can-it-be-prevented/
+11. http://www.geeksforgeeks.org/return-void-functions-c/
+12. http://www.geeksforgeeks.org/ways-copy-vector-c/
+13. http://www.geeksforgeeks.org/data-type-ranges-and-their-macros-in-c/
+14. http://www.geeksforgeeks.org/useful-array-algorithms-in-c-stl/
+15. http://www.geeksforgeeks.org/tuples-in-c/
+16. http://www.geeksforgeeks.org/converting-string-to-number-and-vice-versa-in-c/
+17. http://www.geeksforgeeks.org/array-class-c/
+18. http://www.geeksforgeeks.org/bind-function-placeholders-c/
+19. http://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/
+20.  http://www.geeksforgeeks.org/forward-list-c-set-2-manipulating-functions/ 
+21.  http://www.geeksforgeeks.org/interesting-facts-about-strings-in-python-set-3-string-methods/
+22.  http://www.geeksforgeeks.org/iterators-c-stl/
+23.  http://www.geeksforgeeks.org/python-string-methods-set-2-len-count-center-ljust-rjust-isalpha-isalnum-isspace-join/
+24. http://www.geeksforgeeks.org/python-string-methods-set-3-strip-lstrip-rstrip-min-max-maketrans-translate-relplace/
+25. http://www.geeksforgeeks.org/list-in-c-set-2-some-useful-functions/
+26.  http://www.geeksforgeeks.org/ratio-manipulations-in-c-set-1-arithmetic/
+27. http://www.geeksforgeeks.org/ratio-manipulations-in-c-set-2-comparison/
+28 http://www.geeksforgeeks.org/stdpartition-in-c-stl/
+29 http://www.geeksforgeeks.org/merge-operations-using-stl-in-c-merge-includes-set_union-set_intersection-set_difference/
+30 http://www.geeksforgeeks.org/heap-using-stl-c/
+31 http://www.geeksforgeeks.org/list-methods-in-python-set-1-in-not-in-len-min-max/
+32 http://www.geeksforgeeks.org/list-methods-in-python-set-2-del-remove-sort-insert-pop-extend/
+33. http://www.geeksforgeeks.org/stdstring-class-in-c/
+34 http://www.geeksforgeeks.org/mathematical-functions-python-set-1-numeric-functions/
+35. http://www.geeksforgeeks.org/mathematical-functions-python-set-2-logarithmic-power-functions/
+36 http://www.geeksforgeeks.org/mathematical-functions-in-python-set-3-trigonometric-and-angular-functions/
+37 http://www.geeksforgeeks.org/mathematical-functions-in-python-set-4-special-functions-and-constants/
+38 http://www.geeksforgeeks.org/random-numbers-in-python/
+39 http://www.geeksforgeeks.org/time-functions-in-python-set-1-time-ctime-sleep/
+40. http://www.geeksforgeeks.org/time-functions-python-set-2-date-manipulations/
+41 http://www.geeksforgeeks.org/calendar-functions-in-python-set-1-calendar-month-isleap/
+42 http://www.geeksforgeeks.org/calendar-functions-in-python-set-2monthrange-prcal-weekday/
+43. http://www.geeksforgeeks.org/dictionary-methods-in-python-set-1-cmp-len-items/
+44. http://www.geeksforgeeks.org/dictionary-methods-in-python-set-2-update-has_key-fromkeys/
+45 http://www.geeksforgeeks.org/complex-numbers-in-python-set-1-introduction/
+46 http://www.geeksforgeeks.org/complex-numbers-python-set-2-important-functions-constants/
+47 http://www.geeksforgeeks.org/complex-numbers-in-python-set-3-trigonometric-and-hyperbolic-functions/
+48 http://www.geeksforgeeks.org/array-python-set-1-introduction-functions/
+49.  http://www.geeksforgeeks.org/array-in-python-set-2-important-functions/
+50.  http://www.geeksforgeeks.org/inplace-operators-python-set-1iadd-isub-iconcat/
+51 http://www.geeksforgeeks.org/inplace-operators-in-python-set-2ixor-iand-ipow/
+52  http://www.geeksforgeeks.org/statistical-functions-python-set-1averages-measure-central-location/
+53. http://www.geeksforgeeks.org/statistical-functions-in-python-set-2-measure-of-spread/
+54 http://www.geeksforgeeks.org/iterator-functions-in-python-set-1/
+55 http://www.geeksforgeeks.org/iterator-functions-python-set-2islice-starmap-tee/
+56 http://www.geeksforgeeks.org/decimal-functions-python-set-1/
+57. http://www.geeksforgeeks.org/decimal-functions-in-python-set-2-logical_and-normalize-quantize-rotate/
+58.  http://www.geeksforgeeks.org/operator-functions-in-python-set-1/
+59 http://www.geeksforgeeks.org/bisect-algorithm-functions-in-python/
+60. http://www.geeksforgeeks.org/deque-in-python/
+61 http://www.geeksforgeeks.org/heap-queue-in-python/
+62 http://www.geeksforgeeks.org/enum-in-python/
+63 http://www.geeksforgeeks.org/namedtuple-in-python/
+64 http://www.geeksforgeeks.org/chainmap-in-python/
+65  http://www.geeksforgeeks.org/handling-missing-keys-python-dictionaries/
+66 http://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/
+67 http://www.geeksforgeeks.org/range-vs-xrange-python/
+68 http://www.geeksforgeeks.org/byte-objects-vs-string-python/
+69 http://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
+70 http://www.geeksforgeeks.org/character-classification-c-cctype/
+71 http://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/
+72 http://www.geeksforgeeks.org/floating-point-manipulation-math-h/
+73. http://www.geeksforgeeks.org/type-conversion-python/
+74. http://www.geeksforgeeks.org/check-string-valid-keyword-python/
+75 http://www.geeksforgeeks.org/operator-functions-python-set-2/
+76. http://www.geeksforgeeks.org/keywords-python-set-1/
+77. http://www.geeksforgeeks.org/std-valarray-class-c/
+78 http://www.geeksforgeeks.org/keywords-python-set-2/
+79. http://www.geeksforgeeks.org/iterator-functions-python-set-2islice-starmap-tee/ 
+80. http://www.contribute.geeksforgeeks.org/inplace-operators-in-python-set-2ixor-iand-ipow/
+81, http://www.geeksforgeeks.org/inplace-vs-standard-operators-python/
+82 http://www.geeksforgeeks.org/precision-handling-python/
+83. http://www.geeksforgeeks.org/reduce-in-python/
+84, http://www.geeksforgeeks.org/looping-techniques-python/
+85 http://www.geeksforgeeks.org/short-circuiting-techniques-python/
+86. http://www.geeksforgeeks.org/array-type-manipulation-in-c/
+87 http://www.geeksforgeeks.org/insert-elements-c-stl-list/
+88 http://www.geeksforgeeks.org/delete-elements-c-stl-list/
+89. http://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/
+90. http://www.geeksforgeeks.org/c-program-print-happy-birthday/
+91 http://www.geeksforgeeks.org/insertion-deletion-stl-set-c/
+92. http://www.geeksforgeeks.org/searching-map-using-stdmap-functions-c/
+93 http://www.geeksforgeeks.org/3-different-ways-insert-elements-stdmap/
+94 http://www.geeksforgeeks.org/different-ways-delete-elements-stdmap-erase-clear/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
