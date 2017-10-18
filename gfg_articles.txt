@@ -108,6 +108,8 @@ Links to all my published articles ( in order) are :-
 106 http://www.geeksforgeeks.org/pow-in-python/
 107 http://www.geeksforgeeks.org/factorial-in-python/
 108 http://www.geeksforgeeks.org/gcd-in-python/
+109 http://www.geeksforgeeks.org/log-functions-python/
+110 http://www.geeksforgeeks.org/max-min-python/
 
 
 
