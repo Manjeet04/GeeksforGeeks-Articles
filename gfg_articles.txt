@@ -110,6 +110,9 @@ Links to all my published articles ( in order) are :-
 108 http://www.geeksforgeeks.org/gcd-in-python/
 109 http://www.geeksforgeeks.org/log-functions-python/
 110 http://www.geeksforgeeks.org/max-min-python/
+111 http://www.geeksforgeeks.org/reverse-string-python-5-different-ways/
+112 http://www.geeksforgeeks.org/bin-in-python/
+
 
 
 
