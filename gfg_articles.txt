@@ -115,6 +115,8 @@ Links to all my published articles ( in order) are :-
 113 http://www.geeksforgeeks.org/tau-mathematical-constant/
 114 http://www.geeksforgeeks.org/randrange-in-python/
 115 http://www.geeksforgeeks.org/ways-increment-character-python/
+116 http://www.geeksforgeeks.org/python-string-index-applications/
+117 http://www.geeksforgeeks.org/ways-print-escape-characters-python/
 
 
 
