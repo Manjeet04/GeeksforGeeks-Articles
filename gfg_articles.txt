@@ -117,6 +117,8 @@ Links to all my published articles ( in order) are :-
 115 http://www.geeksforgeeks.org/ways-increment-character-python/
 116 http://www.geeksforgeeks.org/python-string-index-applications/
 117 http://www.geeksforgeeks.org/ways-print-escape-characters-python/
+118 http://www.geeksforgeeks.org/zip-in-python/
+119 http://www.geeksforgeeks.org/computing-index-using-pointers-returned-stl-functions-c/
 
 
 
