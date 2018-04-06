@@ -119,6 +119,13 @@ Links to all my published articles ( in order) are :-
 117 http://www.geeksforgeeks.org/ways-print-escape-characters-python/
 118 http://www.geeksforgeeks.org/zip-in-python/
 119 http://www.geeksforgeeks.org/computing-index-using-pointers-returned-stl-functions-c/
+120 https://www.geeksforgeeks.org/python-maketrans-translate-functions/
+121 https://www.geeksforgeeks.org/python-number-uniform-method/
+122 https://www.geeksforgeeks.org/python-number-fabs-method/
+123 https://www.geeksforgeeks.org/python-strings-encode-method/
+124 https://www.geeksforgeeks.org/python-strings-decode-method/
+125 https://www.geeksforgeeks.org/python-expandtabs-method/
+
 
 
 
